@@ -8,3 +8,11 @@ Using a reference to a NavMeshSurface, this script will bake your NavMesh on sta
 
 ### [GoToClick.cs](https://github.com/gotfunc/unity-scripts/blob/master/GoToClick.cs)
 Using a reference to a camera and an agent, handles agent movement towards the click position using a raycast.
+
+## Transitions
+
+### [SlerpPosition.cs](https://github.com/gotfunc/unity-scripts/blob/master/SlerpPosition.cs)
+Apply a smooth transition to the transform.
+
+### [SmoothCameraFieldOfView.cs](https://github.com/gotfunc/unity-scripts/blob/master/SmoothCameraFieldOfView.cs)
+Apply a smooth transition to a camera's field of view.
