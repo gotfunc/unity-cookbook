@@ -3,8 +3,7 @@ A collection of useful C# scripts to increase productivity working with the Unit
 
 ## AI
 
-### Automatic nav mesh baking 
-#### [NavMeshBaker.cs](https://github.com/gotfunc/unity-scripts/blob/master/NavMeshBaker.cs)
+### Automatic nav mesh baking [NavMeshBaker.cs](https://github.com/gotfunc/unity-scripts/blob/master/NavMeshBaker.cs)
 Using a reference to a NavMeshSurface, this script will bake your NavMesh on start.
 
 ### Go to click [GoToClick.cs](https://github.com/gotfunc/unity-scripts/blob/master/GoToClick.cs)
