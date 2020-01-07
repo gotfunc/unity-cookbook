@@ -16,3 +16,6 @@ Apply a smooth transition to the transform.
 
 ### Smooth camera field of view change [SmoothCameraFieldOfView.cs](https://github.com/gotfunc/unity-scripts/blob/master/SmoothCameraFieldOfView.cs)
 Apply a smooth transition to a camera's field of view.
+
+### Smooth position transition using coroutines [GoToCoroutine.cs](https://github.com/gotfunc/unity-scripts/blob/master/GoToCoroutine.cs)
+
