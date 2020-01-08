@@ -7,6 +7,6 @@ public class SlerpPosition : MonoBehaviour
     
     void Update()
     {
-        transform.position = Vector3.Slerp(transform.position, to, 0.75f * Time.deltaTime);
+        transform.position = Vector3.Lerp(transform.position, to, 0.75f * Time.deltaTime);
     }
 }
